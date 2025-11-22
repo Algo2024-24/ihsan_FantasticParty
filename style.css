@@ -1,0 +1,57 @@
+body {
+    font-family: sans-serif;
+}
+
+header{
+background-color: lightblue;
+padding:10px;
+}
+
+header a{
+background-color: white ;
+text-decoration: none;
+border-radius: 8px ;
+padding: 6px;
+}
+
+h1{
+color: rgb(42, 41, 129);
+
+}
+
+footer p{
+background-color: rgb(201, 58, 19);
+color: black
+
+}
+
+nav a{
+margin: 20px;
+font-size:20px;
+text-decoration:none;
+color: white;
+border:3px solid navy;
+border-radius:10px;
+background-color:navy ;
+}
+
+.color-4{
+background-color: white;
+color:royalblue ;
+}
+
+nav{
+padding:15px;
+}
+
+.colar-1{
+background-color: rgb(158, 227, 88);
+padding: 10px;
+border-radius:20px;
+color:rgb(0, 0, 0);
+}
+
+h2{
+color: rgb(16, 16, 171);
+font-size:30px;
+}
